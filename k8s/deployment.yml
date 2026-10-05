@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ci-cd-pipeline
-        image: arca9/ci-cd-pipeline:2
+        image: pankajladhi7/ci-cd-pipeline:1
         ports:
         - containerPort: 3000
 ---
